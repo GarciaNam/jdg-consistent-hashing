@@ -4,6 +4,8 @@ import com.opennaru.jdg.consistenthash.HashFunction;
 
 /**
  * 
+ * Opennaru, Inc. http://www.opennaru.com/
+ * 
  * @author Junshik Jeon(service@opennaru.com)
  * 
  */

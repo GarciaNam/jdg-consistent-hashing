@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 /**
  * 
+ * Opennaru, Inc. http://www.opennaru.com/
+ * 
  * @author Junshik Jeon(service@opennaru.com)
  *
  */

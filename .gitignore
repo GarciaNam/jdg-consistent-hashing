@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+/target
+/ObjectStore
+/PutObjectStoreDirHere
+/README.md~

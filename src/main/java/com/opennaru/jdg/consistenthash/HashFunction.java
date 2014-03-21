@@ -5,6 +5,8 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * 
+ * Opennaru, Inc. http://www.opennaru.com/
+ * 
  * @author Junshik Jeon(service@opennaru.com)
  *
  */

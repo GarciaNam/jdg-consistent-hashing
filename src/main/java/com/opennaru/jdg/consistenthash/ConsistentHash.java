@@ -8,6 +8,8 @@ import java.util.TreeMap;
  * Original Version 
  * http://www.tom-e-white.com/2007/11/consistent-hashing.html
  * 
+ * Opennaru, Inc. http://www.opennaru.com/
+ * 
  * @author Junshik Jeon(service@opennaru.com)
  */
 public class ConsistentHash<T> {
