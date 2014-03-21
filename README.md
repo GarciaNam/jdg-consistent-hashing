@@ -43,10 +43,14 @@ KEY들만 server1, server3으로 KEY가 분산되는 것을 확인 할 수 있�
 ```
 
 
-* Source Github 
+* Source Github
+---- 
 https://github.com/nameislocus/jdg-consistent-hashing
 
 * Opennaru, Inc.
+----
 http://www.opennaru.com/
+
 http://opennaru.blog.me/
+
 http://opennaru.tistory.com/
